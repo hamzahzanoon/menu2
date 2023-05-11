@@ -1,0 +1,11 @@
+p {
+    justify-content: center;
+}
+
+.btn {
+    border: 2px solid green;
+    padding: 7px 10px;
+    border-radius: 6px;
+    font-size: 100px;
+    justify-content: space-between;
+}
