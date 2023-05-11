@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/menu2/static/css/main.7a80e136.css",
+    "main.js": "/menu2/static/js/main.2dd13ace.js",
+    "static/js/787.6b503308.chunk.js": "/menu2/static/js/787.6b503308.chunk.js",
+    "static/media/Provençal.png": "/menu2/static/media/Provençal.797a314924ce5657c82d.png",
+    "static/media/Folksy.png": "/menu2/static/media/Folksy.440a6fe25e66a09604fd.png",
+    "static/media/(video).png": "/menu2/static/media/(video).ae1a29740cbb97da7c24.png",
+    "static/media/NeighborFood.png": "/menu2/static/media/NeighborFood.b8cf37abb4cc4bc24175.png",
+    "static/media/Lunch.jpeg": "/menu2/static/media/Lunch.9806dbb59df2e30dd38c.jpeg",
+    "static/media/Girl on Bloor.png": "/menu2/static/media/Girl on Bloor.59885ffb892faf18adca.png",
+    "static/media/Toast.jpeg": "/menu2/static/media/Toast.331b6ade3068e9d2fece.jpeg",
+    "static/media/Salad.jpeg": "/menu2/static/media/Salad.dd68b411dc9761ab9d0c.jpeg",
+    "static/media/food2.jpeg": "/menu2/static/media/food2.cce71999c0c71971b4d1.jpeg",
+    "static/media/Fries_.jpeg": "/menu2/static/media/Fries_.f6b7fa034f1836e48ec5.jpeg",
+    "static/media/Basil.jpeg": "/menu2/static/media/Basil.a520371f9639e25390fd.jpeg",
+    "static/media/Delicious.jpeg": "/menu2/static/media/Delicious.4987548fff02c26ecda5.jpeg",
+    "static/media/Sandwiches.jpeg": "/menu2/static/media/Sandwiches.ffb13a82067404841d51.jpeg",
+    "static/media/the Go.jpeg": "/menu2/static/media/the Go.6201311c36fd100f8232.jpeg",
+    "static/media/Cooking.jpeg": "/menu2/static/media/Cooking.c25be39cd6fc312511aa.jpeg",
+    "static/media/Recipe.jpeg": "/menu2/static/media/Recipe.f3e966632407392b4547.jpeg",
+    "static/media/Breasts.jpeg": "/menu2/static/media/Breasts.5bf2eece55cde41f3c08.jpeg",
+    "static/media/Chicken.jpeg": "/menu2/static/media/Chicken.5b72d1c67157b595835f.jpeg",
+    "index.html": "/menu2/index.html",
+    "main.7a80e136.css.map": "/menu2/static/css/main.7a80e136.css.map",
+    "main.2dd13ace.js.map": "/menu2/static/js/main.2dd13ace.js.map",
+    "787.6b503308.chunk.js.map": "/menu2/static/js/787.6b503308.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a80e136.css",
+    "static/js/main.2dd13ace.js"
+  ]
+}
